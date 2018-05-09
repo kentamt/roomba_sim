@@ -5,7 +5,7 @@ Gazebo roomba simulator
 	
 2. Install pysdf package. http://wiki.ros.org/pysdf
 
-3. Launch
+3. Launch  
 	$ roslaunch roomba_sim roomba_skidpan.launch
 
   
